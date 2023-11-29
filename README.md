@@ -10,8 +10,8 @@ Kelas : TI.23.A5
 | No | Description | Link |
 |-----|------|-----|
 |1|Latihan|[Click Here](#latihan)|
-|2|Praktikum6|[Click Here](#praktikum6)|
-|3|Flowchart Praktikum6|[Click Here](#flowchart-praktikum-6)|
+|2|Praktikum7|[Click Here](#praktikum7)|
+|3|Flowchart Praktikum7|[Click Here](#flowchart-praktikum-7)|
 
 ## Latihan
 Ubahlah kode di bawah ini menjadi fungsi menggunakan lambda
@@ -59,12 +59,12 @@ Ubahlah kode di bawah ini menjadi fungsi menggunakan lambda
     print(d("Danang"))
     
 ### Program :
-![alt text](?raw=true)
+![alt text](https://github.com/oktavia18/praktikum7/blob/main/screenshoots/input%20latihan%201.png?raw=true)
 
 
 ### Hasil Run :
 
-![alt text](?raw=true)
+![alt text](https://github.com/oktavia18/praktikum7/blob/main/screenshoots/output%20latihan.png?raw=true)
 
 
 ## Praktikum 6
@@ -212,32 +212,30 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
     
 ### Program :
 
-![alt text](?raw=true)
+![alt text](https://github.com/oktavia18/praktikum7/blob/main/screenshoots/program.png?raw=true)
 
 
 ### Hasil Run :
 - Menambah data
 
-![alt text](?raw=true)
+![alt text](https://github.com/oktavia18/praktikum7/blob/main/screenshoots/output%20tampilkan%20data.png?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/oktavia18/praktikum7/blob/main/screenshoots/lanjutan%20output%20tambah%20data.png?raw=true)
 
 - Menampilkan data
 
-![alt text](?raw=true)
+![alt text](https://github.com/oktavia18/praktikum7/blob/main/screenshoots/output%20tampilkan%20data.png?raw=true)
 
 - Mengubah data 
 
-!![alt text](?raw=true)
+!![alt text](https://github.com/oktavia18/praktikum7/blob/main/screenshoots/output%20ubah%20data.png?raw=true)
 
 
 - Menghapus data 
 
-![alt text](?raw=true)
+![alt text](https://github.com/oktavia18/praktikum7/blob/main/screenshoots/output%20hapus%20data.png?raw=true)
 
-- Selesai
 
-![alt text](?raw=true)
 
 ## Penjelasan Program :
 1. Definisikan dictionary terlebih dahulu data = {}.
@@ -256,6 +254,6 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 
 ## Flowchart Praktikum 6
 
-![alt text](?raw=true)
+![alt text](https://github.com/oktavia18/praktikum7/blob/main/flowchart%20per%2011_Oktavia.png?raw=true)
 
 ## Sekian, Terima kasih
