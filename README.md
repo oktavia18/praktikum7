@@ -67,7 +67,7 @@ Ubahlah kode di bawah ini menjadi fungsi menggunakan lambda
 ![alt text](https://github.com/oktavia18/praktikum7/blob/main/screenshoots/output%20latihan.png?raw=true)
 
 
-## Praktikum 6
+## Praktikum 7
 Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan :
 
 - Fungsi tambah() untuk menambah data.
@@ -252,7 +252,7 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 8. Untuk keluar maka gunakan fungsi else dan exit() atau gunakan perintah [5] Keluar.
 9. Selesai.
 
-## Flowchart Praktikum 6
+## Flowchart Praktikum 7
 
 ![alt text](https://github.com/oktavia18/praktikum7/blob/main/flowchart%20per%2011_Oktavia.png?raw=true)
 
