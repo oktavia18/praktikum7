@@ -1,10 +1,10 @@
 # Praktikum 7
 
-Nama : Danang Nurcahyo
+Nama : Oktavia Rizkha Kurniawati
 
-NIM : 312210004
+NIM : 312310509
 
-Kelas : TI.22.A1
+Kelas : TI.23.A5
 
 ## DAFTAR ISI <br>
 | No | Description | Link |
@@ -33,8 +33,8 @@ Ubahlah kode di bawah ini menjadi fungsi menggunakan lambda
 ### Rumus :
     # Latihan
 
-    print("Nama : Danang Nurcahyo")
-    print("NIM  : 312210004")
+    print("Nama : Oktavia Rizkha Kurniawati")
+    print("NIM  : 312310509")
     print("=========================")
 
     import math
@@ -59,12 +59,12 @@ Ubahlah kode di bawah ini menjadi fungsi menggunakan lambda
     print(d("Danang"))
     
 ### Program :
-![Latihan1](https://user-images.githubusercontent.com/115677839/205903640-0502ff9d-4acd-418b-b19b-870143767b65.png)
+![alt text](?raw=true)
 
 
 ### Hasil Run :
 
-![Run latihan1](https://user-images.githubusercontent.com/115677839/205904215-2a8f2354-448e-4e59-9b8c-54e082a42083.png)
+![alt text](?raw=true)
 
 
 ## Praktikum 6
@@ -212,32 +212,32 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
     
 ### Program :
 
-![Praktikum](https://user-images.githubusercontent.com/115677839/205904277-791e0600-5798-4cdb-9c64-9ef7eb259cd6.png)
+![alt text](?raw=true)
 
 
 ### Hasil Run :
 - Menambah data
 
-![Runpraktikum](https://user-images.githubusercontent.com/115677839/205904333-0b40d5d8-0666-441d-8edc-0501f6aa8966.png)
+![alt text](?raw=true)
 
-![Runpraktikum (2)](https://user-images.githubusercontent.com/115677839/205904391-c65f6636-150f-4993-9342-4cdafee247b1.png)
+![alt text](?raw=true)
 
 - Menampilkan data
 
-![Runpraktikum (3)](https://user-images.githubusercontent.com/115677839/205904780-ca7a8869-ff3e-4897-972f-04011b338e3c.png)
+![alt text](?raw=true)
 
 - Mengubah data 
 
-![RunPraktikum (4)](https://user-images.githubusercontent.com/115677839/205905669-23104857-b5f7-4554-b61b-7570add69ab8.png)
+!![alt text](?raw=true)
 
 
 - Menghapus data 
 
-![Menghapus Data](https://user-images.githubusercontent.com/115867244/205799298-cee570ef-02fc-47b0-9fe1-9245be7c5030.png)
+![alt text](?raw=true)
 
 - Selesai
 
-![Selesai](https://user-images.githubusercontent.com/115867244/205799907-d2985822-7742-47de-8703-d44e07dae985.png)
+![alt text](?raw=true)
 
 ## Penjelasan Program :
 1. Definisikan dictionary terlebih dahulu data = {}.
@@ -256,6 +256,6 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 
 ## Flowchart Praktikum 6
 
-![Gambar WhatsApp 2022-12-06 pukul 16 17 32](https://user-images.githubusercontent.com/115867244/205897374-eb4c3775-131a-4224-a9ea-e795bac9d769.jpg)
+![alt text](?raw=true)
 
 ## Sekian, Terima kasih
